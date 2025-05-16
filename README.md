@@ -14,3 +14,18 @@ This insight will help Daikibo improve its predictive maintenance strategy, redu
 * **Excel (Advanced Pivot Tables & Dashboarding)**
 
 # Dashboard ![](Deloitte.jpg)
+
+# Conclusion
+* Daikibo's telemetry data revealed that **daikibo-factory-seiko** had the highest number of machine breakdowns during May 2021.
+* Within that factory, **LaserWelder** was responsible for the most frequent unhealthy events, indicating potential reliability issues.
+* Downtime was found to occur consistently in specific time windows between **6 AM - 9 AM**, suggesting patterns worth further investigation.
+
+# Recommendations
+* Focus on the factory with the most breakdowns and fix the main issues causing machine failures.
+* Check the machines that break the most and do regular maintenance to prevent problems.
+* Set up alerts so the team knows when a machine becomes unhealthy.
+* Look at more months of data to see if there are long-term patterns.
+
+
+
+
