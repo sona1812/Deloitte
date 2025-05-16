@@ -13,4 +13,4 @@ This insight will help Daikibo improve its predictive maintenance strategy, redu
   Converted timestamps into **readable Date-Time format using Unix epoch transformation.**
 * **Excel (Advanced Pivot Tables & Dashboarding)**
 
-# Dashboard ![]
+# Dashboard ![](Deloitte.jpg)
